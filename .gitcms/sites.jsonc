@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "sites": [
+    {
+      "key": "demo",
+      "display_name": "Site",
+      "website_url": "https://demo.com",
+      "root_path": ""
+    }
+  ]
+}
